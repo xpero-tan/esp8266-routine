@@ -3,5 +3,5 @@
   { "time": "09:00", "event": "Study" },
   { "time": "13:00", "event": "Lunch" },
   { "time": "15:00", "event": "Exercise" },
-  { "time": "00:55", "event": "Sleep" }
+  { "time": "01:00", "event": "Sleep" }
 ]
