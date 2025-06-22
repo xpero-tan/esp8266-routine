@@ -1,6 +1,6 @@
 [
   { "time": "07:00", "event": "Wake Up" },
-  { "time": "09:55", "event": "Study" },
+  { "time": "10:02", "event": "Study" },
   { "time": "13:00", "event": "Lunch" },
   { "time": "15:00", "event": "Exercise" },
   { "time": "01:00", "event": "Sleep" }
