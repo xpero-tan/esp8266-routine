@@ -1,50 +1,50 @@
 [
   {
-    "time": "05:00 PM - 06:30 PM",
-    "activity": "Root Locus Intro & Basic Rules"
+    "time": "07:00 AM - 07:45 AM",
+    "activity": "Morning Routine"
   },
   {
-    "time": "07:00 PM - 08:30 PM",
-    "activity": "Root Locus Angle/Magnitude Cond."
+    "time": "08:00 AM - 01:00 PM",
+    "activity": "University Classes"
   },
   {
-    "time": "09:00 PM - 10:00 PM",
-    "activity": "Root Locus Breakaway Points"
+    "time": "01:00 PM - 02:15 PM",
+    "activity": "Lunch Break"
   },
   {
-    "time": "05:00 PM - 06:30 PM",
-    "activity": "Root Locus Intersections/Asymptotes"
+    "time": "02:15 PM - 04:45 PM",
+    "activity": "University Lab/Study"
   },
   {
-    "time": "07:00 PM - 08:30 PM",
-    "activity": "Root Locus Advanced Problems"
+    "time": "04:45 PM - 06:00 PM",
+    "activity": "SCS Study"
   },
   {
-    "time": "09:00 PM - 10:00 PM",
-    "activity": "Root Locus System Design"
+    "time": "06:00 PM - 06:15 PM",
+    "activity": "Relax & Hydrate"
   },
   {
-    "time": "05:00 PM - 06:30 PM",
-    "activity": "Bode Plot Magnitude Analysis"
+    "time": "06:15 PM - 07:15 PM",
+    "activity": "Analog Electronics Study"
   },
   {
-    "time": "07:00 PM - 08:30 PM",
-    "activity": "Bode Plot Phase Analysis"
+    "time": "07:15 PM - 08:15 PM",
+    "activity": "LCS Fundamentals"
   },
   {
-    "time": "09:00 PM - 10:00 PM",
-    "activity": "Bode Plot Practice Problems"
+    "time": "08:15 PM - 09:00 PM",
+    "activity": "Dinner & Family"
   },
   {
-    "time": "05:00 PM - 06:30 PM",
-    "activity": "Polar Plot Introduction & Examples"
+    "time": "09:00 PM - 09:45 PM",
+    "activity": "ECE Problem Solving"
   },
   {
-    "time": "07:00 PM - 08:30 PM",
-    "activity": "Nyquist Plot Introduction & Stability"
+    "time": "09:45 PM - 11:00 PM",
+    "activity": "Leisure/Prep Day"
   },
   {
-    "time": "09:00 PM - 10:00 PM",
-    "activity": "Polar & Nyquist Practice Problems"
+    "time": "11:00 PM - 07:00 AM",
+    "activity": "Sleep"
   }
 ]
