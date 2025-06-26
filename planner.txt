@@ -1,12 +1,3 @@
-[Date: 2025-06-26]
-Time: 06:00 PM - 07:30 PM
-Topics: Introduction to Root Locus, Rules for Drawing Root Locus (Number of Branches, Symmetry, Start/End Points, Centroid & Asymptotes)
-Resources: [https://nptel.ac.in/courses/108101037 (Module 7: Root Locus Method - Lectures 22-24), https://www.youtube.com/watch?v=k_l5n4WvF1Q (GATE Smarter: Root Locus Introduction), https://www.youtube.com/watch?v=F01l2Lz_d0o (Shomu's Online Education: Rules of Root Locus)]
----
-Time: 08:00 PM - 09:30 PM
-Topics: Breakaway/Break-in Points, Angle of Departure/Arrival, Basic Root Locus Problem Solving
-Resources: [https://nptel.ac.in/courses/108101037 (Module 7: Root Locus Method - Lectures 25-27), https://www.youtube.com/watch?v=UqQ1r671sR4 (GATE Smarter: Breakaway/Break-in Points), https://www.youtube.com/watch?v=Q74V0s9yK8E (Shomu's Online Education: Angle of Departure/Arrival)]
----
 [Date: 2025-06-27]
 Time: 06:00 PM - 07:30 PM
 Topics: Intersection with Imaginary Axis (using Routh-Hurwitz Criterion), Effect of Adding Poles/Zeros on Root Locus
@@ -33,3 +24,4 @@ Resources: [https://nptel.ac.in/courses/108101037 (Module 10: Nyquist Stability 
 Time: 08:00 PM - 09:30 PM
 Topics: Nyquist Stability Criterion (Concept, Contour, Principle of Argument), Drawing Nyquist Plot, Stability Analysis using Nyquist Plot (N=P-Z Criterion, Relative Stability), Nyquist Plot Problem Solving
 Resources: [https://nptel.ac.in/courses/108101037 (Module 10: Nyquist Stability Criterion - Lectures 40-42), https://www.youtube.com/watch?v=7X89H315t0c (GATE Smarter: Nyquist Stability Criterion), https://www.youtube.com/watch?v=P_Vn2B1jF_s (Shomu's Online Education: Nyquist Plot Examples)]
+---
