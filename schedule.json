@@ -1,50 +1,50 @@
 [
   {
-    "time": "07:00 AM - 07:45 AM",
-    "activity": "Morning Routine & Breakfast"
+    "time": "Day 1: 05:00 PM - 06:30 PM",
+    "activity": "Bode Plot Magnitude Analysis"
   },
   {
-    "time": "08:00 AM - 01:00 PM",
-    "activity": "University Classes"
+    "time": "Day 1: 07:00 PM - 08:30 PM",
+    "activity": "Bode Plot Phase Analysis"
   },
   {
-    "time": "01:00 PM - 02:15 PM",
-    "activity": "Lunch Break"
+    "time": "Day 1: 09:00 PM - 10:00 PM",
+    "activity": "Bode Plot Practice Problems"
   },
   {
-    "time": "02:15 PM - 04:45 PM",
-    "activity": "University Lab/Study"
+    "time": "Day 2: 05:00 PM - 06:30 PM",
+    "activity": "Combined Bode Plot Examples"
   },
   {
-    "time": "04:45 PM - 06:00 PM",
-    "activity": "Signals & Communication Systems Study"
+    "time": "Day 2: 07:00 PM - 08:30 PM",
+    "activity": "Polar Plot Introduction"
   },
   {
-    "time": "06:00 PM - 06:15 PM",
-    "activity": "Relaxation & Hydrate"
+    "time": "Day 2: 09:00 PM - 10:00 PM",
+    "activity": "Bode & Polar Plot Practice"
   },
   {
-    "time": "06:15 PM - 07:15 PM",
-    "activity": "Analog Electronics Core Concepts"
+    "time": "Day 3: 05:00 PM - 06:30 PM",
+    "activity": "Polar Plot Stability Criteria"
   },
   {
-    "time": "07:15 PM - 08:15 PM",
-    "activity": "Linear Control Systems Fundamentals"
+    "time": "Day 3: 07:00 PM - 08:30 PM",
+    "activity": "Nyquist Plot Introduction"
   },
   {
-    "time": "08:15 PM - 09:00 PM",
-    "activity": "Dinner & Family Time"
+    "time": "Day 3: 09:00 PM - 10:00 PM",
+    "activity": "Polar & Nyquist Practice"
   },
   {
-    "time": "09:00 PM - 09:45 PM",
-    "activity": "ECE Subject Problem Solving"
+    "time": "Day 4: 05:00 PM - 06:30 PM",
+    "activity": "Nyquist Plot Stability Analysis"
   },
   {
-    "time": "09:45 PM - 11:00 PM",
-    "activity": "Leisure/Prepare Next Day"
+    "time": "Day 4: 07:00 PM - 08:30 PM",
+    "activity": "Complex Nyquist Problems"
   },
   {
-    "time": "11:00 PM - 07:00 AM",
-    "activity": "Sleep"
+    "time": "Day 4: 09:00 PM - 10:00 PM",
+    "activity": "Overall Plot Review"
   }
 ]
