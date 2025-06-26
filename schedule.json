@@ -1,55 +1,38 @@
 [
     {
-        "time": "07:00 AM - 07:45 AM",
-        "activity": "Morning Routine"
+        "time": "08:00 AM",
+        "activity": "Op-Amp Basics"
     },
     {
-        "time": "08:00 AM - 01:00 PM",
-        "activity": "University Classes"
+        "time": "10:00 AM",
+        "activity": "Op-Amp Applications"
     },
     {
-        "time": "01:00 PM - 02:15 PM",
-        "activity": "Lunch Break"
+        "time": "12:00 PM",
+        "activity": "Lunch"
     },
     {
-        "time": "02:15 PM - 04:45 PM",
-        "activity": "University Lab/Study",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, etc."
+        "time": "01:00 PM",
+        "activity": "ADC Introduction"
     },
     {
-        "time": "04:45 PM - 06:00 PM",
-        "activity": "SCS Study",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, etc."
+        "time": "03:00 PM",
+        "activity": "ADC Specs"
     },
     {
-        "time": "06:00 PM - 06:15 PM",
-        "activity": "Relax & Hydrate"
+        "time": "04:00 PM",
+        "activity": "Nap"
     },
     {
-        "time": "06:15 PM - 07:15 PM",
-        "activity": "Analog Electronics Study",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, etc."
+        "time": "05:30 PM",
+        "activity": "DAC Introduction"
     },
     {
-        "time": "07:15 PM - 08:15 PM",
-        "activity": "LCS Fundamentals",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, etc."
+        "time": "07:30 PM",
+        "activity": "DAC Specs"
     },
     {
-        "time": "08:15 PM - 09:00 PM",
-        "activity": "Dinner & Family"
-    },
-    {
-        "time": "09:00 PM - 09:45 PM",
-        "activity": "ECE Problem Solving",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, etc."
-    },
-    {
-        "time": "09:45 PM - 11:00 PM",
-        "activity": "Leisure/Prep Day"
-    },
-    {
-        "time": "11:00 PM - 07:00 AM",
-        "activity": "Sleep"
+        "time": "09:45 PM",
+        "activity": "Dinner"
     }
 ]
