@@ -1,62 +1,92 @@
 [
     {
-        "time": "07:00 AM - 07:45 AM",
+        "time": "12:00 AM - 08:00 AM",
+        "activity": "Sleep",
+        "topics": ""
+    },
+    {
+        "time": "08:00 AM - 08:45 AM",
         "activity": "Morning Routine",
         "topics": ""
     },
     {
-        "time": "08:00 AM - 01:00 PM",
-        "activity": "University Classes",
+        "time": "08:45 AM - 09:15 AM",
+        "activity": "Breakfast",
         "topics": ""
     },
     {
-        "time": "01:00 PM - 02:15 PM",
-        "activity": "Lunch Break",
-        "topics": ""
-    },
-    {
-        "time": "02:15 PM - 04:45 PM",
-        "activity": "University Lab/Study",
+        "time": "09:15 AM - 11:15 AM",
+        "activity": "DSA Study Session",
         "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
     },
     {
-        "time": "04:45 PM - 06:00 PM",
-        "activity": "SCS Study",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
-    },
-    {
-        "time": "06:00 PM - 06:15 PM",
-        "activity": "Relax & Hydrate",
+        "time": "11:15 AM - 11:30 AM",
+        "activity": "Short Break",
         "topics": ""
     },
     {
-        "time": "06:15 PM - 07:15 PM",
+        "time": "11:30 AM - 01:30 PM",
+        "activity": "Network Analysis Study",
+        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
+    },
+    {
+        "time": "01:30 PM - 02:15 PM",
+        "activity": "Lunch",
+        "topics": ""
+    },
+    {
+        "time": "02:15 PM - 03:30 PM",
+        "activity": "SCS Study Session",
+        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
+    },
+    {
+        "time": "03:30 PM - 04:00 PM",
+        "activity": "Prepare for Nap",
+        "topics": ""
+    },
+    {
+        "time": "04:00 PM - 05:30 PM",
+        "activity": "Afternoon Nap",
+        "topics": ""
+    },
+    {
+        "time": "05:30 PM - 06:00 PM",
+        "activity": "Wake Up & Refresh",
+        "topics": ""
+    },
+    {
+        "time": "06:00 PM - 07:15 PM",
         "activity": "Analog Electronics Study",
         "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
     },
     {
-        "time": "07:15 PM - 08:15 PM",
-        "activity": "LCS Fundamentals",
-        "topics": "Linear Control Systems"
+        "time": "07:15 PM - 08:30 PM",
+        "activity": "LCS Study Session",
+        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
     },
     {
-        "time": "08:15 PM - 09:00 PM",
-        "activity": "Dinner & Family",
-        "topics": ""
-    },
-    {
-        "time": "09:00 PM - 09:45 PM",
+        "time": "08:30 PM - 09:30 PM",
         "activity": "ECE Problem Solving",
         "topics": "Engineering Problem Solving"
     },
     {
-        "time": "09:45 PM - 11:00 PM",
-        "activity": "Leisure/Prep Day",
+        "time": "09:30 PM - 09:45 PM",
+        "activity": "Prepare for Dinner",
         "topics": ""
     },
     {
-        "time": "11:00 PM - 07:00 AM",
-        "activity": "Sleep",
+        "time": "09:45 PM - 10:30 PM",
+        "activity": "Dinner",
+        "topics": ""
+    },
+    {
+        "time": "10:30 PM - 11:30 PM",
+        "activity": "Leisure & Prep Day",
+        "topics": ""
+    },
+    {
+        "time": "11:30 PM - 12:00 AM",
+        "activity": "Wind Down",
         "topics": ""
     }
 ]
