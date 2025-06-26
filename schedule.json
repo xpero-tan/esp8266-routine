@@ -16,8 +16,8 @@
     },
     {
         "time": "09:15 AM - 11:15 AM",
-        "activity": "DSA Study Session",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
+        "activity": "DSA Study",
+        "topics": "ADC Resolution, Accuracy, and Conversion Time, ..."
     },
     {
         "time": "11:15 AM - 11:30 AM",
@@ -27,7 +27,7 @@
     {
         "time": "11:30 AM - 01:30 PM",
         "activity": "Network Analysis Study",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
+        "topics": "ADC Resolution, Accuracy, and Conversion Time, ..."
     },
     {
         "time": "01:30 PM - 02:15 PM",
@@ -36,8 +36,8 @@
     },
     {
         "time": "02:15 PM - 03:30 PM",
-        "activity": "SCS Study Session",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
+        "activity": "SCS Study",
+        "topics": "ADC Resolution, Accuracy, and Conversion Time, ..."
     },
     {
         "time": "03:30 PM - 04:00 PM",
@@ -57,17 +57,17 @@
     {
         "time": "06:00 PM - 07:15 PM",
         "activity": "Analog Electronics Study",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
+        "topics": "Introduction to ADCs (Types: Flash, Successive Approximation, Sigma-Delta, ..."
     },
     {
         "time": "07:15 PM - 08:30 PM",
-        "activity": "LCS Study Session",
-        "topics": "Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, ..."
+        "activity": "LCS Study",
+        "topics": "ADC Resolution, Accuracy, and Conversion Time, ..."
     },
     {
         "time": "08:30 PM - 09:30 PM",
         "activity": "ECE Problem Solving",
-        "topics": "Engineering Problem Solving"
+        "topics": "ECE Core Subjects"
     },
     {
         "time": "09:30 PM - 09:45 PM",
@@ -81,7 +81,7 @@
     },
     {
         "time": "10:30 PM - 11:30 PM",
-        "activity": "Leisure & Prep Day",
+        "activity": "Leisure & Prep",
         "topics": ""
     },
     {
