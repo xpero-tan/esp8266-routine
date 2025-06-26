@@ -1,27 +1,36 @@
 [Date: 2025-06-27]
 Time: 06:00 PM - 07:30 PM
-Topics: Intersection with Imaginary Axis (using Routh-Hurwitz Criterion), Effect of Adding Poles/Zeros on Root Locus
-Resources: [https://nptel.ac.in/courses/108101037 (Module 7: Root Locus Method - Lecture 28), https://www.youtube.com/watch?v=Vd0iQe9a-E4 (GATE Smarter: Imaginary Axis Intersection), https://www.youtube.com/watch?v=WzN_0t9oB3A (Shomu's Online Education: Effect of Adding Poles/Zeros)]
+Topics: Root Locus Basic Rules Review, Step-by-Step Construction, Intersection with Imaginary Axis (using Routh-Hurwitz Criterion)
+Resources: [https://nptel.ac.in/courses/108101037 (Module 7: Root Locus Method - Lectures 27-28), https://www.youtube.com/watch?v=Vd0iQe9a-E4 (GATE Smarter: Imaginary Axis Intersection), https://www.youtube.com/watch?v=c5_J7f6sLGo (Shomu's Online Education: Root Locus Rules)]
 ---
 Time: 08:00 PM - 09:30 PM
-Topics: Introduction to Compensator Design using Root Locus, Advanced Root Locus Problem Solving & Practice
-Resources: [https://nptel.ac.in/courses/108101037 (Module 8: Compensator Design - Lectures 30-31), https://www.youtube.com/watch?v=b2XhYy5eB1g (GATE Smarter: Lead/Lag Compensator Root Locus), https://www.youtube.com/watch?v=d_xQ7k21g0E (GATE Smarter: Root Locus Problem Solving Session)]
+Topics: Effect of Adding Poles/Zeros on Root Locus, Root Locus Problem Solving (Type 1 & 2 Systems)
+Resources: [https://nptel.ac.in/courses/108101037 (Module 7: Root Locus Method - Lecture 29), https://www.youtube.com/watch?v=WzN_0t9oB3A (Shomu's Online Education: Effect of Adding Poles/Zeros), https://www.youtube.com/watch?v=d_xQ7k21g0E (GATE Smarter: Root Locus Problem Solving Session)]
 ---
 [Date: 2025-06-28]
 Time: 06:00 PM - 07:30 PM
-Topics: Introduction to Frequency Response, Bode Magnitude Plot (Rules, First/Second Order Systems, Minimum/Non-Minimum Phase), Bode Phase Plot (Rules)
+Topics: Introduction to Compensator Design using Root Locus (Lead/Lag Concepts), Design Procedure
+Resources: [https://nptel.ac.in/courses/108101037 (Module 8: Compensator Design - Lectures 30-31), https://www.youtube.com/watch?v=b2XhYy5eB1g (GATE Smarter: Lead/Lag Compensator Root Locus)]
+---
+Time: 08:00 PM - 09:30 PM
+Topics: Advanced Root Locus Problem Solving & Practice (including Compensator Design examples)
+Resources: [https://nptel.ac.in/courses/108101037 (Module 8: Compensator Design - Lecture 31 Practice), https://www.youtube.com/watch?v=o2d_V6sWfJ4 (GATE Smarter: Compensator Design Problem)]
+---
+[Date: 2025-06-29]
+Time: 06:00 PM - 07:30 PM
+Topics: Introduction to Frequency Response, Bode Magnitude Plot (Rules, First/Second Order Systems, Minimum/Non-Minimum Phase)
 Resources: [https://nptel.ac.in/courses/108101037 (Module 9: Frequency Domain Analysis - Lectures 32-34), https://www.youtube.com/watch?v=7hK4Jt21r14 (GATE Smarter: Bode Plot Introduction), https://www.youtube.com/watch?v=eD5Iysw1jK8 (Shomu's Online Education: Bode Plot Basics)]
 ---
 Time: 08:00 PM - 09:30 PM
-Topics: Drawing Complete Bode Plots, Gain Margin (GM) and Phase Margin (PM) Determination, Stability Analysis using Bode Plot, Bode Plot Problem Solving
+Topics: Bode Phase Plot (Rules), Drawing Complete Bode Plots, Gain Margin (GM) and Phase Margin (PM) Determination, Stability Analysis using Bode Plot, Bode Plot Problem Solving
 Resources: [https://nptel.ac.in/courses/108101037 (Module 9: Frequency Domain Analysis - Lectures 35-37), https://www.youtube.com/watch?v=H7y4WqP3c7k (GATE Smarter: Gain and Phase Margin), https://www.youtube.com/watch?v=5rP0sS4f_xM (Shomu's Online Education: Bode Plot Examples & Problems)]
 ---
-[Date: 2025-06-29]
+[Date: 2025-06-30]
 Time: 06:00 PM - 07:30 PM
 Topics: Introduction to Polar Plot, Drawing Polar Plot for various system types (Type 0, Type 1, Type 2), Basic Polar Plot Problem Solving
 Resources: [https://nptel.ac.in/courses/108101037 (Module 10: Nyquist Stability Criterion - Lectures 38-39), https://www.youtube.com/watch?v=m7p3L_7rQyM (GATE Smarter: Polar Plot), https://www.youtube.com/watch?v=uK1XW19LhU0 (Shomu's Online Education: Polar Plot Explained)]
 ---
 Time: 08:00 PM - 09:30 PM
-Topics: Nyquist Stability Criterion (Concept, Contour, Principle of Argument), Drawing Nyquist Plot, Stability Analysis using Nyquist Plot (N=P-Z Criterion, Relative Stability), Nyquist Plot Problem Solving
+Topics: Nyquist Stability Criterion (Concept, Contour, Principle of Argument), Drawing Nyquist Plot, Stability Analysis using Nyquist Plot (N=P-Z Criterion, Relative Stability), Nyquist Plot Problem Solving, Comprehensive Review of all plots
 Resources: [https://nptel.ac.in/courses/108101037 (Module 10: Nyquist Stability Criterion - Lectures 40-42), https://www.youtube.com/watch?v=7X89H315t0c (GATE Smarter: Nyquist Stability Criterion), https://www.youtube.com/watch?v=P_Vn2B1jF_s (Shomu's Online Education: Nyquist Plot Examples)]
 ---
