@@ -1,46 +1,50 @@
 [
-    {
-        "time": "07:00 AM - 07:45 AM",
-        "activity": "Morning Routine & Breakfast"
-    },
-    {
-        "time": "08:00 AM - 01:00 PM",
-        "activity": "University Classes"
-    },
-    {
-        "time": "01:00 PM - 02:15 PM",
-        "activity": "Lunch Break"
-    },
-    {
-        "time": "02:15 PM - 04:45 PM",
-        "activity": "University Lab/Study"
-    },
-    {
-        "time": "04:45 PM - 06:00 PM",
-        "activity": "University Subject Study"
-    },
-    {
-        "time": "06:00 PM - 06:30 PM",
-        "activity": "Relaxation/Break"
-    },
-    {
-        "time": "06:30 PM - 07:30 PM",
-        "activity": "DSA Problem Solving"
-    },
-    {
-        "time": "07:30 PM - 08:30 PM",
-        "activity": "Core ECE Revision"
-    },
-    {
-        "time": "08:30 PM - 09:30 PM",
-        "activity": "Project Development"
-    },
-    {
-        "time": "09:30 PM - 10:30 PM",
-        "activity": "Dinner & Family Time"
-    },
-    {
-        "time": "11:00 PM - 06:30 AM",
-        "activity": "Sleep"
-    }
+  {
+    "time": "07:00 AM - 07:45 AM",
+    "activity": "Morning Routine & Breakfast"
+  },
+  {
+    "time": "08:00 AM - 01:00 PM",
+    "activity": "University Classes"
+  },
+  {
+    "time": "01:00 PM - 02:15 PM",
+    "activity": "Lunch Break"
+  },
+  {
+    "time": "02:15 PM - 04:45 PM",
+    "activity": "University Lab/Study"
+  },
+  {
+    "time": "04:45 PM - 06:00 PM",
+    "activity": "University Subject Study"
+  },
+  {
+    "time": "06:00 PM - 06:30 PM",
+    "activity": "Relaxation/Break"
+  },
+  {
+    "time": "06:30 PM - 07:30 PM",
+    "activity": "DSA Problem Solving"
+  },
+  {
+    "time": "07:30 PM - 08:30 PM",
+    "activity": "Core ECE Revision"
+  },
+  {
+    "time": "08:30 PM - 09:30 PM",
+    "activity": "Project Development"
+  },
+  {
+    "time": "09:30 PM - 10:30 PM",
+    "activity": "Dinner & Family Time"
+  },
+  {
+    "time": "10:30 PM - 11:00 PM",
+    "activity": "Leisure/Review Day"
+  },
+  {
+    "time": "11:00 PM - 07:00 AM",
+    "activity": "Sleep"
+  }
 ]
