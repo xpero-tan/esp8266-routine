@@ -1,50 +1,50 @@
 [
   {
-    "time": "Day 1: 05:00 PM - 06:30 PM",
+    "time": "05:00 PM - 06:30 PM",
+    "activity": "Root Locus Intro & Basic Rules"
+  },
+  {
+    "time": "07:00 PM - 08:30 PM",
+    "activity": "Root Locus Angle/Magnitude Cond."
+  },
+  {
+    "time": "09:00 PM - 10:00 PM",
+    "activity": "Root Locus Breakaway Points"
+  },
+  {
+    "time": "05:00 PM - 06:30 PM",
+    "activity": "Root Locus Intersections/Asymptotes"
+  },
+  {
+    "time": "07:00 PM - 08:30 PM",
+    "activity": "Root Locus Advanced Problems"
+  },
+  {
+    "time": "09:00 PM - 10:00 PM",
+    "activity": "Root Locus System Design"
+  },
+  {
+    "time": "05:00 PM - 06:30 PM",
     "activity": "Bode Plot Magnitude Analysis"
   },
   {
-    "time": "Day 1: 07:00 PM - 08:30 PM",
+    "time": "07:00 PM - 08:30 PM",
     "activity": "Bode Plot Phase Analysis"
   },
   {
-    "time": "Day 1: 09:00 PM - 10:00 PM",
+    "time": "09:00 PM - 10:00 PM",
     "activity": "Bode Plot Practice Problems"
   },
   {
-    "time": "Day 2: 05:00 PM - 06:30 PM",
-    "activity": "Combined Bode Plot Examples"
+    "time": "05:00 PM - 06:30 PM",
+    "activity": "Polar Plot Introduction & Examples"
   },
   {
-    "time": "Day 2: 07:00 PM - 08:30 PM",
-    "activity": "Polar Plot Introduction"
+    "time": "07:00 PM - 08:30 PM",
+    "activity": "Nyquist Plot Introduction & Stability"
   },
   {
-    "time": "Day 2: 09:00 PM - 10:00 PM",
-    "activity": "Bode & Polar Plot Practice"
-  },
-  {
-    "time": "Day 3: 05:00 PM - 06:30 PM",
-    "activity": "Polar Plot Stability Criteria"
-  },
-  {
-    "time": "Day 3: 07:00 PM - 08:30 PM",
-    "activity": "Nyquist Plot Introduction"
-  },
-  {
-    "time": "Day 3: 09:00 PM - 10:00 PM",
-    "activity": "Polar & Nyquist Practice"
-  },
-  {
-    "time": "Day 4: 05:00 PM - 06:30 PM",
-    "activity": "Nyquist Plot Stability Analysis"
-  },
-  {
-    "time": "Day 4: 07:00 PM - 08:30 PM",
-    "activity": "Complex Nyquist Problems"
-  },
-  {
-    "time": "Day 4: 09:00 PM - 10:00 PM",
-    "activity": "Overall Plot Review"
+    "time": "09:00 PM - 10:00 PM",
+    "activity": "Polar & Nyquist Practice Problems"
   }
 ]
