@@ -1,36 +1,47 @@
 [Date: 2025-06-27]
-Time: 06:00 PM - 07:30 PM
-Topics: Root Locus Basic Rules Review, Step-by-Step Construction, Intersection with Imaginary Axis (using Routh-Hurwitz Criterion)
-Resources: [https://nptel.ac.in/courses/108101037 (Module 7: Root Locus Method - Lectures 27-28), https://www.youtube.com/watch?v=Vd0iQe9a-E4 (GATE Smarter: Imaginary Axis Intersection), https://www.youtube.com/watch?v=c5_J7f6sLGo (Shomu's Online Education: Root Locus Rules)]
+Time: 09:00 AM - 11:00 AM
+Topics: Op-Amp Basic Configurations (Inverting, Non-Inverting, Summing, Differential), Ideal Op-Amp Characteristics
+Resources: [https://www.electronics-tutorials.ws/opamp/opamp_1.html], [https://www.allaboutcircuits.com/textbook/semiconductors/chpt-8/ideal-op-amp/]
 ---
-Time: 08:00 PM - 09:30 PM
-Topics: Effect of Adding Poles/Zeros on Root Locus, Root Locus Problem Solving (Type 1 & 2 Systems)
-Resources: [https://nptel.ac.in/courses/108101037 (Module 7: Root Locus Method - Lecture 29), https://www.youtube.com/watch?v=WzN_0t9oB3A (Shomu's Online Education: Effect of Adding Poles/Zeros), https://www.youtube.com/watch?v=d_xQ7k21g0E (GATE Smarter: Root Locus Problem Solving Session)]
+Time: 11:00 AM - 01:00 PM
+Topics: Op-Amp Applications (Comparators, Integrators, Differentiators), Understanding Feedback
+Resources: [https://www.electronics-tutorials.ws/opamp/opamp_2.html], [https://www.electronics-tutorials.ws/opamp/opamp_applications.html]
+---
+Time: 02:00 PM - 04:00 PM
+Topics: Introduction to ADCs (Types: Flash, Successive Approximation, Sigma-Delta, etc.), Basic Principles of Analog-to-Digital Conversion
+Resources: [https://www.electronics-tutorials.ws/combination/comb_7.html], [https://www.maximintegrated.com/en/design/technical-documents/tutorials/1/1469.html]
+---
+Time: 04:00 PM - 06:00 PM
+Topics:  ADC Resolution, Accuracy, and Conversion Time, Practical Considerations (Noise, Sampling Rate)
+Resources: [https://www.analog.com/media/en/technical-documentation/application-notes/AN-101.pdf], [https://www.electronics-notes.com/articles/analogue_circuits/adc/resolution-accuracy-conversion-time.php]
 ---
 [Date: 2025-06-28]
-Time: 06:00 PM - 07:30 PM
-Topics: Introduction to Compensator Design using Root Locus (Lead/Lag Concepts), Design Procedure
-Resources: [https://nptel.ac.in/courses/108101037 (Module 8: Compensator Design - Lectures 30-31), https://www.youtube.com/watch?v=b2XhYy5eB1g (GATE Smarter: Lead/Lag Compensator Root Locus)]
+Time: 09:00 AM - 11:00 AM
+Topics: Introduction to DACs (Types: R-2R Ladder, Weighted Resistor, etc.), Basic Principles of Digital-to-Analog Conversion
+Resources: [https://www.electronics-tutorials.ws/combination/comb_8.html], [https://www.allaboutcircuits.com/technical-articles/understanding-digital-to-analog-converters/]
 ---
-Time: 08:00 PM - 09:30 PM
-Topics: Advanced Root Locus Problem Solving & Practice (including Compensator Design examples)
-Resources: [https://nptel.ac.in/courses/108101037 (Module 8: Compensator Design - Lecture 31 Practice), https://www.youtube.com/watch?v=o2d_V6sWfJ4 (GATE Smarter: Compensator Design Problem)]
+Time: 11:00 AM - 01:00 PM
+Topics: DAC Resolution, Accuracy, and Settling Time, Practical Considerations (Glitches, Monotonicity)
+Resources: [https://www.ti.com/lit/an/sbaa003/sbaa003.pdf], [https://www.analog.com/en/analog-dialogue/articles/digital-to-analog-converters-dacs.html]
+---
+Time: 02:00 PM - 04:00 PM
+Topics:  Review of Op-Amp Circuits, focusing on practical applications and problem-solving.
+Resources: [https://www.electronics-tutorials.ws/opamp/opamp_3.html], [Textbook or Course Notes]
+---
+Time: 04:00 PM - 06:00 PM
+Topics:  Review of ADC/DAC concepts, focusing on interfacing and practical considerations.
+Resources: [https://www.electronics-tutorials.ws/combination/comb_9.html], [Textbook or Course Notes]
+
 ---
 [Date: 2025-06-29]
-Time: 06:00 PM - 07:30 PM
-Topics: Introduction to Frequency Response, Bode Magnitude Plot (Rules, First/Second Order Systems, Minimum/Non-Minimum Phase)
-Resources: [https://nptel.ac.in/courses/108101037 (Module 9: Frequency Domain Analysis - Lectures 32-34), https://www.youtube.com/watch?v=7hK4Jt21r14 (GATE Smarter: Bode Plot Introduction), https://www.youtube.com/watch?v=eD5Iysw1jK8 (Shomu's Online Education: Bode Plot Basics)]
+Time: 09:00 AM - 12:00 PM
+Topics: Advanced Op-Amp Configurations (Instrumentation Amplifier, Current-to-Voltage Converter, Voltage-to-Current Converter)
+Resources: [https://www.electronics-tutorials.ws/opamp/opamp_4.html], [Textbook or Course Notes]
 ---
-Time: 08:00 PM - 09:30 PM
-Topics: Bode Phase Plot (Rules), Drawing Complete Bode Plots, Gain Margin (GM) and Phase Margin (PM) Determination, Stability Analysis using Bode Plot, Bode Plot Problem Solving
-Resources: [https://nptel.ac.in/courses/108101037 (Module 9: Frequency Domain Analysis - Lectures 35-37), https://www.youtube.com/watch?v=H7y4WqP3c7k (GATE Smarter: Gain and Phase Margin), https://www.youtube.com/watch?v=5rP0sS4f_xM (Shomu's Online Education: Bode Plot Examples & Problems)]
+Time: 02:00 PM - 05:00 PM
+Topics:  Advanced ADC/DAC Techniques (Multi-channel ADCs, high-speed ADCs, etc.), Data Acquisition Systems
+Resources: [https://www.analog.com/en/products/data-converters.html], [Textbook or Course Notes]
 ---
-[Date: 2025-06-30]
-Time: 06:00 PM - 07:30 PM
-Topics: Introduction to Polar Plot, Drawing Polar Plot for various system types (Type 0, Type 1, Type 2), Basic Polar Plot Problem Solving
-Resources: [https://nptel.ac.in/courses/108101037 (Module 10: Nyquist Stability Criterion - Lectures 38-39), https://www.youtube.com/watch?v=m7p3L_7rQyM (GATE Smarter: Polar Plot), https://www.youtube.com/watch?v=uK1XW19LhU0 (Shomu's Online Education: Polar Plot Explained)]
----
-Time: 08:00 PM - 09:30 PM
-Topics: Nyquist Stability Criterion (Concept, Contour, Principle of Argument), Drawing Nyquist Plot, Stability Analysis using Nyquist Plot (N=P-Z Criterion, Relative Stability), Nyquist Plot Problem Solving, Comprehensive Review of all plots
-Resources: [https://nptel.ac.in/courses/108101037 (Module 10: Nyquist Stability Criterion - Lectures 40-42), https://www.youtube.com/watch?v=7X89H315t0c (GATE Smarter: Nyquist Stability Criterion), https://www.youtube.com/watch?v=P_Vn2B1jF_s (Shomu's Online Education: Nyquist Plot Examples)]
----
+[Date: 2025-06-30] - [Date: 2025-07-10]  *(Fill in similar daily schedules for remaining days, covering specific op-amp circuits, ADC/DAC types, and related concepts. Divide the topics appropriately across the remaining days.)*
+
+
