@@ -1,27 +1,37 @@
 [
     {
-        "time": "07:30 AM - 09:00 AM",
-        "activity": "Study Diode Characteristics",
-        "topics": "Zener Diode: Characteristics, Voltage Regulation using Zener Diode"
+        "time": "08:00 AM - 11:00 AM",
+        "activity": "Morning Routine & Breakfast",
+        "topics": ""
     },
     {
-        "time": "09:30 AM - 11:00 AM",
+        "time": "11:00 AM - 01:45 PM",
         "activity": "Study Rectifier Applications",
         "topics": "Zener Diode: Characteristics, Voltage Regulation using Zener Diode"
     },
     {
-        "time": "12:00 PM - 01:30 PM",
-        "activity": "Study Clipper Circuits",
+        "time": "01:45 PM - 02:30 PM",
+        "activity": "Lunch Break",
+        "topics": ""
+    },
+    {
+        "time": "02:30 PM - 03:30 PM",
+        "activity": "Optional Study/Review",
         "topics": "Zener Diode: Characteristics, Voltage Regulation using Zener Diode"
     },
     {
-        "time": "02:00 PM - 03:30 PM",
-        "activity": "Study Clamper Circuits",
-        "topics": "Zener Diode: Characteristics, Voltage Regulation using Zener Diode"
+        "time": "03:30 PM - 05:30 PM",
+        "activity": "Nap",
+        "topics": ""
     },
     {
-        "time": "03:30 PM - 05:00 PM",
-        "activity": "Study Zener Diode",
-        "topics": "Zener Diode: Characteristics, Voltage Regulation using Zener Diode"
+        "time": "05:30 PM - 08:00 PM",
+        "activity": "Leisure Time",
+        "topics": ""
+    },
+    {
+        "time": "08:00 PM - 09:00 PM",
+        "activity": "Dinner & Evening Routine",
+        "topics": ""
     }
 ]
