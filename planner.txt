@@ -1,147 +1,536 @@
 [Date: 2025-06-27]
-Time: 07:30 AM - 09:00 AM
-Topics: Diode Characteristics (PN Junction), Ideal vs. Practical Diode Model
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/], Neso Academy]
+Time: 11:00 AM - 1:45 PM
+Topics: Verilog Introduction (Purpose, Design Flow), Basic Syntax (Keywords, Identifiers, Data Types: reg, wire, integer), Operators (Arithmetic, Logical, Bitwise, Relational)
+Resources: GeeksforGeeks Verilog Tutorial, FPGA4Student - Verilog Basics, EDA Playground (online simulator)
 ---
-Time: 09:30 AM - 11:00 AM
-Topics: Diode Applications: Half-wave Rectifier, Full-wave Rectifier (Center-tapped, Bridge)
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/], LTSpice Simulation Software]
----
-Time: 12:00 PM - 01:30 PM
-Topics: Diode Applications: Clipper Circuits (Series, Parallel)
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/], Circuit Digest]
----
-Time: 02:00 PM - 03:30 PM
-Topics: Diode Applications: Clamper Circuits
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/], Circuit Digest]
----
-Time: 03:30 PM - 05:00 PM
-Topics: Zener Diode: Characteristics, Voltage Regulation using Zener Diode
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]]
+Time: 02:30 PM - 03:30 PM
+Topics: Structural Modeling (Module Declaration, Port List, Gate Primitives: and, or, not), Simple Testbench (Initial block, dumpvars, monitor)
+Resources: Icarus Verilog setup guide, "Verilog HDL" by Samir Palnitkar (Chapter 3, 4), Practical Verilog examples
 ---
 [Date: 2025-06-28]
-Time: 07:30 AM - 09:00 AM
-Topics: Bipolar Junction Transistor (BJT): Operation, Configurations (CE, CB, CC)
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]]
+Time: 11:00 AM - 1:45 PM
+Topics: Dataflow Modeling (assign statement, Delays), Continuous Assignment, Behavioral Modeling (always Block for Combinational Logic)
+Resources: GeeksforGeeks - Verilog Dataflow, FPGA4Student - Behavioral Modeling, Practice: Implement a MUX/Decoder using assign and always
 ---
-Time: 09:30 AM - 11:00 AM
-Topics: BJT Biasing Techniques: Fixed Bias, Collector-to-base Bias
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]]
----
-Time: 12:00 PM - 01:30 PM
-Topics: BJT Biasing Techniques: Voltage Divider Bias
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]]
----
-Time: 02:00 PM - 03:30 PM
-Topics: BJT Small-Signal Model (h-parameter, r_e model)
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]]
----
-Time: 03:30 PM - 05:00 PM
-Topics: Amplifier Analysis (CE Configuration using Small-Signal Model)
-Resources: [Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/], LTSpice Simulation Software]
+Time: 02:30 PM - 03:30 PM
+Topics: Conditional Statements (if-else, case), Loop Statements (for, while, repeat, forever), Procedural Assignments (blocking, non-blocking)
+Resources: NPTEL: Digital System Design with Verilog (select relevant modules) [https://nptel.ac.in/courses/108105113/], Practice: Implement a priority encoder using case
 ---
 [Date: 2025-06-29]
-Time: 07:30 AM - 09:00 AM
-Topics: Number Systems (Binary, Octal, Decimal, Hexadecimal), Conversions
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/], Neso Academy]
+Time: 11:00 AM - 1:45 PM
+Topics: Sequential Logic with always (Flip-Flops: D, JK, T - edge-triggered, synchronous/asynchronous reset)
+Resources: FPGA4Student - Verilog Flip-Flops, Practice: Implement D-FF, then extend to JK/T.
 ---
-Time: 09:30 AM - 11:00 AM
-Topics: Boolean Algebra: Theorems, De Morgan's Law
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
----
-Time: 12:00 PM - 01:30 PM
-Topics: Boolean Algebra: SOP & POS forms, Logic Gates (AND, OR, NOT, NAND, NOR)
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
----
-Time: 02:00 PM - 03:30 PM
-Topics: Logic Gates (XOR, XNOR), Universal Gates (NAND, NOR as universal)
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
----
-Time: 03:30 PM - 05:00 PM
-Topics: Karnaugh Maps (K-Maps): 2, 3, and 4 variables (Minimization of Boolean expressions)
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
+Time: 02:30 PM - 03:30 PM
+Topics: Registers, Shift Registers (SISO, SIPO, PISO, PIPO), Counters (Synchronous Up/Down Counter)
+Resources: Neso Academy - Verilog Counters/Registers, Practice: Design a 4-bit synchronous counter.
 ---
 [Date: 2025-06-30]
-Time: 07:30 AM - 09:00 AM
-Topics: Combinational Circuits: Half Adder, Full Adder
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
+Time: 11:00 AM - 1:45 PM
+Topics: Finite State Machines (FSM) - Introduction, Mealy vs. Moore Models, State Diagram Representation
+Resources: Digital Design with Verilog HDL (Chapters on FSM), Online FSM design examples
 ---
-Time: 09:30 AM - 11:00 AM
-Topics: Combinational Circuits: Half Subtractor, Full Subtractor
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
----
-Time: 12:00 PM - 01:30 PM
-Topics: Combinational Circuits: Encoders, Decoders
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
----
-Time: 02:00 PM - 03:30 PM
-Topics: Combinational Circuits: Multiplexers (MUX), Demultiplexers (DEMUX)
-Resources: [Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]]
----
-Time: 03:30 PM - 05:00 PM
-Topics: Combinational Circuits: Comparators, Parity Generators/Checkers
-Resources: [Morris Mano - Digital Design, Electronics Tutorials]
+Time: 02:30 PM - 03:30 PM
+Topics: FSM Design Steps (State Encoding, Output Logic, Next State Logic), Simple FSM Example (e.g., Sequence Detector)
+Resources: Practice: Design and simulate a simple 101 sequence detector FSM.
 ---
 [Date: 2025-07-01]
-Time: 07:30 AM - 09:00 AM
-Topics: Control Systems Introduction: Open-loop vs. Closed-loop Systems
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/], Neso Academy]
+Time: 11:00 AM - 1:45 PM
+Topics: Parameters and localparam, Generics in Verilog (parameterized modules), Functions (Differences from tasks, usage, restrictions)
+Resources: Verilog Reference Manual, "Verilog HDL" by Samir Palnitkar (Chapter 8), Practice: Create a parameterized N-bit adder.
 ---
-Time: 09:30 AM - 11:00 AM
-Topics: Transfer Functions, Modeling of Mechanical Systems
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
----
-Time: 12:00 PM - 01:30 PM
-Topics: Modeling of Electrical Systems (RLC circuits for TF)
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
----
-Time: 02:00 PM - 03:30 PM
-Topics: Block Diagram Reduction Techniques (Series, Parallel, Feedback forms)
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
----
-Time: 03:30 PM - 05:00 PM
-Topics: Signal Flow Graphs, Mason's Gain Formula
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
+Time: 02:30 PM - 03:30 PM
+Topics: Tasks (Usage, begin-end, fork-join), Generate Blocks (conceptual for reusability)
+Resources: Online Verilog Task/Function tutorials, Practice: Simple task for repetitive testbench actions.
 ---
 [Date: 2025-07-02]
-Time: 07:30 AM - 09:00 AM
-Topics: Time Domain Analysis: First-order System Response (Step, Impulse)
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
+Time: 11:00 AM - 1:45 PM
+Topics: Basic Testbench Advanced Concepts (File I/O: $readmemb, $writememb, $display, $monitor, $strobe), Simulation and Debugging (Using Waveform Viewer like GTKWave)
+Resources: Verilog Testbench examples, GTKWave User Guide, Practice: Write a testbench to read stimulus from a file.
 ---
-Time: 09:30 AM - 11:00 AM
-Topics: Time Domain Analysis: Second-order System Response (Underdamped, Overdamped)
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
----
-Time: 12:00 PM - 01:30 PM
-Topics: Time Domain Analysis: Second-order System Response (Critically Damped, Performance Specifications)
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
----
-Time: 02:00 PM - 03:30 PM
-Topics: Steady-State Error, Static Error Constants (Kp, Kv, Ka), System Type
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
----
-Time: 03:30 PM - 05:00 PM
-Topics: Stability Analysis: Routh-Hurwitz Criterion
-Resources: [Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]]
+Time: 02:30 PM - 03:30 PM
+Topics: Common Debugging Techniques, Review of Verilog Best Practices (Coding style, synthesis considerations)
+Resources: Online forums for common Verilog errors, Best practices guides for RTL design.
 ---
 [Date: 2025-07-03]
-Time: 07:30 AM - 09:00 AM
-Topics: Analog Electronics: First Unit Problem Solving and Concept Reinforcement
-Resources: [Sedra/Smith - Microelectronic Circuits, Previous Year's JU Papers, Online Practice Quizzes]
+Time: 11:00 AM - 1:45 PM
+Topics: Verilog Review: Key Concepts, Synthesis vs. Simulation Differences, Important Constructs, Small Design Problems
+Resources: Consolidate notes, self-made flashcards, small online Verilog challenges.
 ---
-Time: 09:30 AM - 11:00 AM
-Topics: Digital Electronics: First Unit Problem Solving and Concept Reinforcement
-Resources: [Morris Mano - Digital Design, Previous Year's JU Papers, Online Practice Quizzes]
+Time: 02:30 PM - 03:30 PM
+Topics: Practical Application Discussion: How Verilog is used in FPGA/ASIC design flow (Conceptual overview)
+Resources: Xilinx/Intel FPGA tutorials (conceptual intro), industry blogs.
 ---
-Time: 12:00 PM - 01:30 PM
-Topics: Linear Control Systems: First Unit Problem Solving and Concept Reinforcement
-Resources: [Ogata - Modern Control Engineering, Previous Year's JU Papers, Online Practice Quizzes]
+[Date: 2025-07-04]
+Time: 11:00 AM - 1:45 PM
+Topics: Network Theory: Basic Concepts (KVL, KCL, Ohm's Law), Circuit Elements (R, L, C), Nodal and Mesh Analysis
+Resources: Dorf & Svoboda - Electric Circuits, NPTEL: Networks and Systems [https://nptel.ac.in/courses/108105065/]
 ---
-Time: 02:00 PM - 03:30 PM
-Topics: Combined Review: Analog & Digital Electronics First Units
-Resources: [All notes from these subjects, Formula sheets, Quick concept checks]
+Time: 02:30 PM - 03:30 PM
+Topics: Network Theory: Superposition Theorem, Thevenin's and Norton's Theorems
+Resources: Dorf & Svoboda - Electric Circuits, NPTEL: Networks and Systems [https://nptel.ac.in/courses/108105065/]
 ---
-Time: 03:30 PM - 05:00 PM
-Topics: Combined Review: Electronic Devices & Linear Control Systems First Units
-Resources: [All notes from these subjects, High-level summaries, Discussion of difficult points]
+[Date: 2025-07-05]
+Time: 11:00 AM - 1:45 PM
+Topics: Network Theory: Maximum Power Transfer, Star-Delta Transformation, Transient Analysis of RL and RC Circuits (First Order)
+Resources: Dorf & Svoboda - Electric Circuits, NPTEL: Networks and Systems [https://nptel.ac.in/courses/108105065/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Network Theory: AC Fundamentals (Phasors, Impedance, Admittance), Series and Parallel Resonance
+Resources: Dorf & Svoboda - Electric Circuits, NPTEL: Networks and Systems [https://nptel.ac.in/courses/108105065/]
+---
+[Date: 2025-07-06]
+Time: 11:00 AM - 1:45 PM
+Topics: Analog Electronics: Diode Characteristics (PN Junction, IV Curve), Ideal vs. Practical Diode Model, Rectifiers (Half-wave, Full-wave: Center-tapped, Bridge)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Analog Electronics: Ripple Factor, Efficiency, PIV, Filter Circuits (Capacitor Filter), Zener Diode (Characteristics, Voltage Regulation)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+[Date: 2025-07-07]
+Time: 11:00 AM - 1:45 PM
+Topics: Analog Electronics: Clipper Circuits (Series, Parallel, Biased), Clamper Circuits (Positive, Negative)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Analog Electronics: Bipolar Junction Transistor (BJT) - Operation, Configurations (CE, CB, CC), DC Biasing (Fixed Bias, Collector-to-base Bias)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+[Date: 2025-07-08]
+Time: 11:00 AM - 1:45 PM
+Topics: Analog Electronics: BJT Biasing Techniques (Voltage Divider Bias, Emitter Bias), Load Line Analysis (DC & AC)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Analog Electronics: BJT Small-Signal Model (h-parameter, r_e model), Amplifier Analysis (CE Configuration using Small-Signal Model)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+[Date: 2025-07-09]
+Time: 11:00 AM - 1:45 PM
+Topics: Analog Electronics: Field-Effect Transistors (FETs) - JFET, MOSFET (Construction, Characteristics, Biasing)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Analog Electronics: Operational Amplifiers (Op-Amps) - Ideal Op-Amp Characteristics, Inverting and Non-Inverting Amplifiers
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+[Date: 2025-07-10]
+Time: 11:00 AM - 1:45 PM
+Topics: Analog Electronics: Op-Amp Applications (Summing Amplifier, Integrator, Differentiator, Voltage Follower)
+Resources: Sedra/Smith - Microelectronic Circuits, NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Analog Electronics: Comparators (Zero-crossing detector), Active Filters (First-order Low-Pass, High-Pass - conceptual)
+Resources: Sedra/Smith - Microelectronic Circuits, Circuit Digest
+---
+[Date: 2025-07-11]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Electronics: Number Systems (Binary, Octal, Decimal, Hexadecimal), Conversions, Binary Arithmetic (Addition, Subtraction using 1's/2's Complement)
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Electronics: Boolean Algebra (Theorems, Postulates, De Morgan's Law), Logic Gates (AND, OR, NOT, NAND, NOR, XOR, XNOR), Universal Gates
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+[Date: 2025-07-12]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Electronics: SOP & POS forms, K-Maps (2, 3, and 4 variables - Minimization of Boolean expressions)
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Electronics: Combinational Circuits (Half Adder, Full Adder, Half Subtractor, Full Subtractor)
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+[Date: 2025-07-13]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Electronics: Encoders, Decoders, Multiplexers (MUX), Demultiplexers (DEMUX)
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Electronics: Comparators, Parity Generators/Checkers, Code Converters (Binary to Gray, BCD to Excess-3)
+Resources: Morris Mano - Digital Design, Electronics Tutorials
+---
+[Date: 2025-07-14]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Electronics: Sequential Circuits (Latches: SR, D), Flip-Flops (SR, D, JK, T - Truth Tables, Excitation Tables, Master-Slave JK)
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Electronics: Flip-Flop Conversions, Counters (Asynchronous/Ripple Counters, Synchronous Counters, Design of Arbitrary Sequence Counters)
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+[Date: 2025-07-15]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Electronics: Registers (Basic Shift Registers: SISO, SIPO, PISO, PIPO), Universal Shift Register, Applications of Shift Registers
+Resources: Morris Mano - Digital Design, NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Electronics: State Machines (Mealy and Moore Models, State Diagrams, State Tables, Design Process), Logic Families (TTL, CMOS - Basic characteristics, Noise Margin, Fan-out)
+Resources: Morris Mano - Digital Design, Electronics Hub
+---
+[Date: 2025-07-16]
+Time: 11:00 AM - 1:45 PM
+Topics: Signals & Systems: Signal Classification (Continuous-time, Discrete-time, Analog, Digital), Signal Properties (Energy/Power, Periodic/Aperiodic, Even/Odd)
+Resources: Oppenheim/Schafer - Signals & Systems, NPTEL: Signals and Systems [https://nptel.ac.in/courses/108106163/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Signals & Systems: System Classification (Linearity, Time-Invariance, Causality, Stability, Memory), LTI Systems (Impulse Response, Step Response)
+Resources: Oppenheim/Schafer - Signals & Systems, NPTEL: Signals and Systems [https://nptel.ac.in/courses/108106163/]
+---
+[Date: 2025-07-17]
+Time: 11:00 AM - 1:45 PM
+Topics: Signals & Systems: Convolution (Continuous-time & Discrete-time, Graphical Convolution), Properties of Convolution
+Resources: Oppenheim/Schafer - Signals & Systems, NPTEL: Signals and Systems [https://nptel.ac.in/courses/108106163/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Signals & Systems: Fourier Series (Continuous-time: Representation of Periodic Signals, Properties), Fourier Transform (Continuous-time: Definition, Properties, Common Pairs)
+Resources: Oppenheim/Schafer - Signals & Systems, NPTEL: Signals and Systems [https://nptel.ac.in/courses/108106163/]
+---
+[Date: 2025-07-18]
+Time: 11:00 AM - 1:45 PM
+Topics: Signals & Systems: Application of Fourier Transform to LTI Systems (Frequency Response), Laplace Transform (Definition, ROC, Properties, Application to LTI Systems, Transfer Function, Poles and Zeros)
+Resources: Oppenheim/Schafer - Signals & Systems, NPTEL: Signals and Systems [https://nptel.ac.in/courses/108106163/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Signals & Systems: Sampling Theorem, Nyquist Rate, Aliasing, Reconstruction of Signals, Z-Transform (Definition, ROC, Properties, Application to Discrete-time LTI Systems)
+Resources: Oppenheim/Schafer - Signals & Systems, NPTEL: Signals and Systems [https://nptel.ac.in/courses/108106163/]
+---
+[Date: 2025-07-19]
+Time: 11:00 AM - 1:45 PM
+Topics: Communication Systems: Introduction (Elements of a Communication System), Noise in Communication Systems (Types of Noise, Noise Figure, Noise Temperature, SNR)
+Resources: Lathi - Modern Digital and Analog Communication Systems, NPTEL: Principles of Communication [https://nptel.ac.in/courses/108102096/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Communication Systems: Analog Modulation (Amplitude Modulation: AM, DSB-SC, SSB, VSB), AM Demodulation (Envelope Detector, Coherent Demodulation)
+Resources: Lathi - Modern Digital and Analog Communication Systems, Neso Academy
+---
+[Date: 2025-07-20]
+Time: 11:00 AM - 1:45 PM
+Topics: Communication Systems: Angle Modulation (FM, PM, Narrowband FM, Wideband FM), Carson's Rule, Bandwidth of FM
+Resources: Lathi - Modern Digital and Analog Communication Systems, NPTEL: Principles of Communication [https://nptel.ac.in/courses/108102096/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Communication Systems: FM Generation (Direct, Indirect), FM Demodulation (Discriminators, PLL), Superheterodyne Receiver
+Resources: Lathi - Modern Digital and Analog Communication Systems, Electronics Hub
+---
+[Date: 2025-07-21]
+Time: 11:00 AM - 1:45 PM
+Topics: Communication Systems: Digital Modulation (Pulse Code Modulation - PCM: Sampling, Quantization, Encoding), Delta Modulation (DM), DPCM, ADM
+Resources: Lathi - Modern Digital and Analog Communication Systems, NPTEL: Digital Communication [https://nptel.ac.in/courses/117105143/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Communication Systems: Digital Modulation Techniques (ASK, FSK, BPSK, QPSK), M-ary Modulation Schemes (QAM - basic concept)
+Resources: Lathi - Modern Digital and Analog Communication Systems, Neso Academy
+---
+[Date: 2025-07-22]
+Time: 11:00 AM - 1:45 PM
+Topics: Communication Systems: Basic Concepts of Information Theory (Entropy, Mutual Information, Channel Capacity, Shannon-Hartley Theorem)
+Resources: Lathi - Modern Digital and Analog Communication Systems, NPTEL: Information Theory and Coding [https://nptel.ac.in/courses/117101053/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Microprocessors & Microcontrollers (MPMC): 8085/8086 Architecture (Registers, Pin Diagram, Memory Organization), Addressing Modes
+Resources: Mazidi - Microprocessors and Microcontrollers, NPTEL: Microprocessors and Microcontrollers [https://nptel.ac.in/courses/108105102/]
+---
+[Date: 2025-07-23]
+Time: 11:00 AM - 1:45 PM
+Topics: MPMC: 8085/8086 Instruction Set (Data Transfer, Arithmetic, Logical, Branching), Assembly Language Programming (ALP) - Simple Programs
+Resources: Mazidi - Microprocessors and Microcontrollers, Tutorialspoint (8085 ALP)
+---
+Time: 02:30 PM - 03:30 PM
+Topics: MPMC: Memory Interfacing with 8085/8086 (Memory Mapping), I/O Interfacing (Memory Mapped I/O vs. I/O Mapped I/O)
+Resources: Mazidi - Microprocessors and Microcontrollers, NPTEL: Microprocessors and Microcontrollers [https://nptel.ac.in/courses/108105102/]
+---
+[Date: 2025-07-24]
+Time: 11:00 AM - 1:45 PM
+Topics: MPMC: Interrupts in 8085/8086 (Hardware/Software Interrupts, ISR, Priority), Programmable Peripheral Interface (PPI) 8255 Modes
+Resources: Mazidi - Microprocessors and Microcontrollers, Datasheet for 8255 PPI
+---
+Time: 02:30 PM - 03:30 PM
+Topics: MPMC: Programmable Interval Timer (PIT) 8253/8254, Interfacing with Keyboard/Display using 8255, Introduction to Microcontrollers (8051 Architecture, Features)
+Resources: Mazidi - Microprocessors and Microcontrollers (for 8051), Datasheet for 8253/8254 PIT
+---
+[Date: 2025-07-25]
+Time: 11:00 AM - 1:45 PM
+Topics: Control Systems: Introduction (Open-loop vs. Closed-loop Systems), Transfer Functions, Modeling of Mechanical and Electrical Systems
+Resources: Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Control Systems: Block Diagram Reduction Techniques, Signal Flow Graphs, Mason's Gain Formula
+Resources: Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+[Date: 2025-07-26]
+Time: 11:00 AM - 1:45 PM
+Topics: Control Systems: Time Domain Analysis (First-order & Second-order System Response, Performance Specifications), Steady-State Error, Static Error Constants, System Type
+Resources: Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Control Systems: Stability Analysis (Routh-Hurwitz Criterion), Root Locus (Rules for Sketching, Applications and Interpretation)
+Resources: Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+[Date: 2025-07-27]
+Time: 11:00 AM - 1:45 PM
+Topics: Control Systems: Frequency Response Analysis (Bode Plot: Magnitude & Phase, Gain Margin, Phase Margin), Nyquist Plot (Basic Concepts, Stability Criterion)
+Resources: Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Control Systems: State-Space Representation (State-Space Model, State Transition Matrix - basics), Controllers (P, I, D Control Actions, PID Tuning - Ziegler-Nichols)
+Resources: Ogata - Modern Control Engineering, NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+[Date: 2025-07-28]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Signal Processing (DSP): Discrete Fourier Transform (DFT), Properties, Fast Fourier Transform (FFT) Algorithms (DIT, DIF - conceptual)
+Resources: Proakis - Digital Signal Processing, NPTEL: Digital Signal Processing [https://nptel.ac.in/courses/117105034/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Signal Processing (DSP): FIR Filter Design (Properties, Linear Phase, Windowing Methods: Rectangular, Hanning, Hamming)
+Resources: Proakis - Digital Signal Processing, NPTEL: Digital Signal Processing [https://nptel.ac.in/courses/117105034/]
+---
+[Date: 2025-07-29]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Signal Processing (DSP): IIR Filter Design (Properties, Impulse Invariance Method, Bilinear Transformation Method)
+Resources: Proakis - Digital Signal Processing, NPTEL: Digital Signal Processing [https://nptel.ac.in/courses/117105034/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Signal Processing (DSP): Realization Structures (Direct Form I & II, Cascade, Parallel Forms), Multi-rate DSP (Decimation, Interpolation - conceptual)
+Resources: Proakis - Digital Signal Processing, NPTEL: Digital Signal Processing [https://nptel.ac.in/courses/117105034/]
+---
+[Date: 2025-07-30]
+Time: 11:00 AM - 1:45 PM
+Topics: Electromagnetic Fields & Waves (EMFT): Vector Calculus Review (Gradient, Divergence, Curl), Maxwell's Equations (Integral & Differential Form, Displacement Current)
+Resources: Sadiku - Elements of Electromagnetics, NPTEL: Electromagnetic Theory [https://nptel.ac.in/courses/108106152/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Electromagnetic Fields & Waves (EMFT): Wave Propagation (Free Space, Conductive Media, Dielectrics), Transmission Lines (Characteristic Impedance, Reflection Coefficient, VSWR)
+Resources: Sadiku - Elements of Electromagnetics, NPTEL: Electromagnetic Theory [https://nptel.ac.in/courses/108106152/]
+---
+[Date: 2025-07-31]
+Time: 11:00 AM - 1:45 PM
+Topics: Electromagnetic Fields & Waves (EMFT): Basic Antenna Concepts (Radiation Pattern, Gain, Directivity, Dipole/Loop - basics)
+Resources: Sadiku - Elements of Electromagnetics, Antenna Theory by Balanis (for in-depth)
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Computer Networks (CN): OSI Model, TCP/IP Model (Layers and Functions), IP Addressing (IPv4 basics), Subnetting (conceptual)
+Resources: Tanenbaum - Computer Networks, GeeksforGeeks, Neso Academy (Networking)
+---
+[Date: 2025-08-01]
+Time: 11:00 AM - 1:45 PM
+Topics: Computer Networks (CN): Routing (Static, Dynamic - conceptual), Switching (Layer 2, Layer 3), Network Devices (Hubs, Switches, Routers, Bridges, Gateways)
+Resources: Tanenbaum - Computer Networks, TechTarget
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Comprehensive Review: Network Theory (Formulas, Key Concepts, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+[Date: 2025-08-02]
+Time: 11:00 AM - 1:45 PM
+Topics: Comprehensive Review: Analog Electronics (Circuit types, Characteristics, Op-Amp applications, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Comprehensive Review: Digital Electronics (Design steps, State machines, K-Maps, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+[Date: 2025-08-03]
+Time: 11:00 AM - 1:45 PM
+Topics: Comprehensive Review: Signals & Systems (Transforms properties, System analysis, Convolution, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Comprehensive Review: Analog & Digital Communication Systems (Modulation, Noise, Receivers, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+[Date: 2025-08-04]
+Time: 11:00 AM - 1:45 PM
+Topics: Comprehensive Review: Microprocessors & Microcontrollers (Architecture, Instruction Set, Interfacing, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Comprehensive Review: Control Systems (Stability, Bode/Root Locus interpretation, Controllers, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+[Date: 2025-08-05]
+Time: 11:00 AM - 1:45 PM
+Topics: Comprehensive Review: DSP (Filter design, Transforms, Realization, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Comprehensive Review: EMFT (Maxwell's, Transmission Lines, Antennas, Problem Solving) & Computer Networks (Basic concepts, Problem Solving)
+Resources: Self-made flashcards, Summary notes, Solved examples from GATE/ESE
+---
+[Date: 2025-08-06]
+Time: 11:00 AM - 1:45 PM
+Topics: Mock Test 1 (Full Syllabus - 2 hour duration), Identify Weak Areas
+Resources: Online GATE/ESE mock tests, Previous Year's JU Question Papers
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Mock Test 1 Analysis & Focused Study: Weak Areas identified from Mock Test 1
+Resources: Targeted textbook chapters, NPTEL lectures, specific online tutorials
+---
+[Date: 2025-08-07]
+Time: 11:00 AM - 1:45 PM
+Topics: Advanced Problem Solving: Network Theory (Complex AC circuits, Dependent sources, Two-port networks) & Analog Electronics (Multi-stage amplifiers, advanced Op-Amp circuits)
+Resources: GATE/ESE previous year's questions, Advanced Circuit Analysis textbooks, Sedra/Smith advanced problems
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Advanced Problem Solving: Digital Electronics (Complex state machine design, timing analysis) & Signals & Systems (Advanced convolution, Transform applications)
+Resources: GATE/ESE previous year's questions, Morris Mano design problems, Oppenheim/Schafer problems
+---
+[Date: 2025-08-08]
+Time: 11:00 AM - 1:45 PM
+Topics: Advanced Problem Solving: Communication Systems (Noise analysis, Digital modulation error rates) & Microprocessors & Microcontrollers (Complex interfacing, Interrupt handling)
+Resources: GATE/ESE previous year's questions, Lathi advanced problems, Mazidi programming problems
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Advanced Problem Solving: Control Systems (Compensator design problems, State-space solutions) & DSP (Filter design problems, FFT properties)
+Resources: GATE/ESE previous year's questions, Ogata advanced problems, Proakis problems
+---
+[Date: 2025-08-09]
+Time: 11:00 AM - 1:45 PM
+Topics: Advanced Problem Solving: EMFT (Waveguide, Antennas) & Computer Networks (Routing protocols, Security basics)
+Resources: GATE/ESE previous year's questions, Sadiku problems, Tanenbaum problems
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Mock Test 2 (Full Syllabus - 2 hour duration), Detailed Error Analysis
+Resources: Online GATE/ESE mock tests, Previous Year's JU Question Papers
+---
+[Date: 2025-08-10]
+Time: 11:00 AM - 1:45 PM
+Topics: Focused Study: Remaining Weak Areas from Mock Test 2 (Prioritize 2-3 weakest topics)
+Resources: Targeted NPTEL lectures, specific textbook chapters, re-solve problematic questions
+---
+Time: 02:30 PM - 03:30 PM
+Topics: General ECE Concepts: Diode/Transistor Characteristics (quick refresh), Op-Amp Applications (quick refresh)
+Resources: Sedra/Smith, Microelectronics textbooks, Op-Amp application notes
+---
+[Date: 2025-08-11]
+Time: 11:00 AM - 1:45 PM
+Topics: General ECE Concepts: Basic Logic Gates & Boolean Algebra (quick refresh), Signals and Systems (basic definitions, LTI systems, transforms)
+Resources: Morris Mano, Digital Logic textbooks, Oppenheim/Schafer, Signals & Systems notes
+---
+Time: 02:30 PM - 03:30 PM
+Topics: General ECE Concepts: Communication Systems (AM/FM basics, PCM), Microprocessors (8085/8086 basic architecture, instruction types)
+Resources: Lathi, Communication Systems notes, Mazidi, MPU notes
+---
+[Date: 2025-08-12]
+Time: 11:00 AM - 1:45 PM
+Topics: General ECE Concepts: Control Systems (TF, Block Diagram Reduction, Routh-Hurwitz), DSP (DFT/FFT basics, FIR/IIR concept), EMFT (Maxwell's basics)
+Resources: Ogata, Control Systems notes, Proakis/Sadiku, DSP/EMFT notes
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Review of Projects/Practical Work Done (to link theory to application for interviews)
+Resources: Your own lab manuals, project reports, simulation results
+---
+[Date: 2025-08-13]
+Time: 11:00 AM - 1:45 PM
+Topics: Comprehensive Revision: All Core Subjects (Focus on inter-subject connections and high-yield topics for interviews)
+Resources: High-level summaries, mind maps, interview preparation guides
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Mock Interview Practice (Self-reflection or with a peer if possible), Final Review of Formulas and Key Definitions
+Resources: Common technical interview questions for ECE, Formula sheets, self-written definitions
+---
+[Date: 2025-08-14]
+Time: 11:00 AM - 1:45 PM
+Topics: Deep Dive Problem Solving: Network Theory (Graph Theory, Reciprocity, Dependent Sources)
+Resources: GATE/ESE advanced problems, Circuit Theory textbooks
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Deep Dive Problem Solving: Analog Electronics (Differential Amps, Current Mirrors, High-Frequency Models)
+Resources: GATE/ESE advanced problems, Sedra/Smith advanced problems
+---
+[Date: 2025-08-15]
+Time: 11:00 AM - 1:45 PM
+Topics: Deep Dive Problem Solving: Digital Electronics (Complex Sequential Designs, PLDs conceptual)
+Resources: GATE/ESE advanced problems, Morris Mano design problems
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Deep Dive Problem Solving: Signals & Systems (State-space representation, Parseval's Theorem, DTFT)
+Resources: GATE/ESE advanced problems, Oppenheim/Schafer problems
+---
+[Date: 2025-08-16]
+Time: 11:00 AM - 1:45 PM
+Topics: Deep Dive Problem Solving: Communication Systems (Noise performance, Error control coding basics, Spread Spectrum)
+Resources: GATE/ESE advanced problems, Lathi advanced problems
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Deep Dive Problem Solving: Microprocessors & Microcontrollers (Memory Segmentation, DMA, Advanced Interfacing)
+Resources: GATE/ESE advanced problems, Mazidi programming problems
+---
+[Date: 2025-08-17]
+Time: 11:00 AM - 1:45 PM
+Topics: Deep Dive Problem Solving: Control Systems (Controllability/Observability, Lag-Lead Compensator Design)
+Resources: GATE/ESE advanced problems, Ogata advanced problems
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Deep Dive Problem Solving: DSP (Finite Word Length effects, Multirate Filter Banks) & EMFT (Smith Chart, Waveguides, Discontinuities)
+Resources: GATE/ESE advanced problems, Proakis/Sadiku problems
+---
+[Date: 2025-08-18]
+Time: 11:00 AM - 1:45 PM
+Topics: Inter-subject problem solving: NT & AE, DE & MPMC
+Resources: GATE/ESE advanced mixed problems
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Inter-subject problem solving: SS & DSP, ADCS & EMFT
+Resources: GATE/ESE advanced mixed problems
+---
+[Date: 2025-08-19]
+Time: 11:00 AM - 1:45 PM
+Topics: Mock Test 3 (Full Syllabus - 2 hour duration), Analyze performance and final weak points
+Resources: Fresh mock test paper, Timer, Online GATE/ESE mock tests, Previous Year's JU Question Papers
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Targeted Revision: Weakest areas from Mock Test 3, Review of Important Diagrams and Block Diagrams
+Resources: Revisit notes, draw diagrams from memory, check against textbooks
+---
+[Date: 2025-08-20]
+Time: 11:00 AM - 1:45 PM
+Topics: Rapid Fire Concept Recall Session for all subjects
+Resources: Flashcards, verbal self-quizzing, peer discussion
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Review of Interview Preparation Material and Behavioral Questions
+Resources: Common HR questions, specific ECE interview prep guides (e.g., GeeksforGeeks, Indiabix for ECE)
+---
+[Date: 2025-08-21]
+Time: 11:00 AM - 1:45 PM
+Topics: Final Comprehensive Revision of all Formulas
+Resources: Consolidated formula sheet
+---
+Time: 02:30 PM - 03:30 PM
+Topics: General ECE Aptitude and Core Concepts Review
+Resources: Indiabix ECE aptitude, general ECE conceptual questions
+---
+[Date: 2025-08-22]
+Time: 11:00 AM - 1:45 PM
+Topics: Quick Scan of High-Yield Topics, Revisit concepts often confused or found tricky
+Resources: Personal summary notes, highlight important sections, clarify doubts
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Practice articulating solutions to common problems
+Resources: Whiteboard practice, verbal explanations
+---
+[Date: 2025-08-23]
+Time: 11:00 AM - 1:45 PM
+Topics: Final review of all subject summaries/mind maps. Light conceptual review, avoid intense problem solving.
+Resources: Your comprehensive summary notes, Neso Academy videos
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Brief mental walkthrough of all subjects, prepare for next day.
+Resources: No specific resources, just mental preparation, stay calm and confident.
+---
+[Date: 2025-08-24]
+Time: 11:00 AM - 1:45 PM
+Topics: Final quick review of critical formulas and concepts. Do not start new topics. Rest.
+Resources: Formula sheet, a few key definitions, light relaxation
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Organize materials, ensure readiness.
+Resources: Check notes, stationery, ID cards etc.
+---
+[Date: 2025-08-25]
+Time: 11:00 AM - 1:45 PM
+Topics: Last-minute mental review, stay hydrated and nourished. Get ready for your internship interviews/assessments.
+Resources: Water, light breakfast, confidence, calm mind
 ---
