@@ -1,37 +1,82 @@
 [
     {
-        "time": "08:00 AM - 11:00 AM",
-        "activity": "Morning Routine & Breakfast",
-        "topics": ""
+        "time": "06:00 AM - 07:00 AM",
+        "activity": "Concept of Networks lecture 11",
+        "topics": null
     },
     {
-        "time": "11:00 AM - 01:45 PM",
-        "activity": "Study Rectifier Applications",
-        "topics": "Zener Diode: Characteristics, Voltage Regulation using Zener Diode"
+        "time": "07:00 AM - 08:00 AM",
+        "activity": "Network Theorems: Thevenin's Theorem",
+        "topics": null
     },
     {
-        "time": "01:45 PM - 02:30 PM",
-        "activity": "Lunch Break",
-        "topics": ""
+        "time": "08:00 AM - 09:00 AM",
+        "activity": "Network Theorems: Example of Thevenin's Theorem",
+        "topics": null
     },
     {
-        "time": "02:30 PM - 03:30 PM",
-        "activity": "Optional Study/Review",
-        "topics": "Zener Diode: Characteristics, Voltage Regulation using Zener Diode"
+        "time": "09:00 AM - 10:00 AM",
+        "activity": "Network Theorems: Questions based on Thevenin's Theorem",
+        "topics": null
     },
     {
-        "time": "03:30 PM - 05:30 PM",
-        "activity": "Nap",
-        "topics": ""
+        "time": "10:00 AM - 11:00 AM",
+        "activity": "Network Theorems: Norton's Theorem",
+        "topics": null
     },
     {
-        "time": "05:30 PM - 08:00 PM",
-        "activity": "Leisure Time",
-        "topics": ""
+        "time": "11:00 AM - 12:00 PM",
+        "activity": "Network Theorems: Questions based on Norton's Theorem",
+        "topics": null
+    },
+    {
+        "time": "12:00 PM - 01:00 PM",
+        "activity": "Two-port Networks: Introduction of Two-Port Network",
+        "topics": null
+    },
+    {
+        "time": "01:00 PM - 02:00 PM",
+        "activity": "Two-port Networks: Z-Parameter",
+        "topics": null
+    },
+    {
+        "time": "02:00 PM - 03:00 PM",
+        "activity": "Two-port Networks: Example of Z-Parameter",
+        "topics": null
+    },
+    {
+        "time": "03:00 PM - 04:00 PM",
+        "activity": "Two-port Networks: Questions based on Z-Parameter",
+        "topics": null
+    },
+    {
+        "time": "04:00 PM - 05:00 PM",
+        "activity": "Transient Analysis: Analysis of First Order Differential Equation",
+        "topics": null
+    },
+    {
+        "time": "05:00 PM - 06:00 PM",
+        "activity": "Transient Analysis: Transform Domain",
+        "topics": null
+    },
+    {
+        "time": "06:00 PM - 07:00 PM",
+        "activity": "Transient Analysis: Time Constant",
+        "topics": null
+    },
+    {
+        "time": "07:00 PM - 08:00 PM",
+        "activity": "Phasor and Locus Diagram: Phasor Diagram for Series RL circuit",
+        "topics": null
     },
     {
         "time": "08:00 PM - 09:00 PM",
-        "activity": "Dinner & Evening Routine",
-        "topics": ""
+        "activity": "Phasor and Locus Diagram: Locus Diagram for Series RL circuit",
+        "topics": null
+    },
+    {
+        "time": "09:00 PM - 10:00 PM",
+        "activity": "Resonance: Series RLC Resonance Circuit",
+        "topics": null
     }
 ]
