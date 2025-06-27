@@ -1,9 +1,62 @@
 [Date: 2025-06-27]
 Time: 11:00 AM - 1:45 PM
-Topics: Verilog Introduction (Purpose, Design Flow), Basic Syntax (Keywords, Identifiers, Data Types: reg, wire, integer), Operators (Arithmetic, Logical, Bitwise, Relational)
-Resources: GeeksforGeeks Verilog Tutorial, FPGA4Student - Verilog Basics, EDA Playground (online simulator)
+Topics: Digital Electronics: Number Systems (Binary, Octal, Decimal, Hexadecimal), Conversions, Binary Arithmetic (Addition, Subtraction using 1's/2's Complement)
+Resources: Morris Mano - Digital Design (Chapter 1, 2), NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
 ---
 Time: 02:30 PM - 03:30 PM
-Topics: Structural Modeling (Module Declaration, Port List, Gate Primitives: and, or, not), Simple Testbench (Initial block, dumpvars, monitor)
-Resources: Icarus Verilog setup guide, "Verilog HDL" by Samir Palnitkar (Chapter 3, 4), Practical Verilog examples
+Topics: Digital Electronics: Boolean Algebra (Theorems, Postulates, De Morgan's Law), Logic Gates (AND, OR, NOT, NAND, NOR, XOR, XNOR), Universal Gates
+Resources: Morris Mano - Digital Design (Chapter 3), Neso Academy - Digital Electronics
 ---
+[Date: 2025-06-28]
+Time: 11:00 AM - 1:45 PM
+Topics: Digital Electronics: SOP & POS forms, K-Maps (2, 3, and 4 variables - Minimization of Boolean expressions)
+Resources: Morris Mano - Digital Design (Chapter 4), GeeksforGeeks - K-Maps
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Digital Electronics: Combinational Circuits (Half Adder, Full Adder, Half Subtractor, Full Subtractor), Encoders, Decoders
+Resources: Morris Mano - Digital Design (Chapter 4), NPTEL: Digital Circuits & Systems [https://nptel.ac.in/courses/108105113/]
+---
+[Date: 2025-06-29]
+Time: 11:00 AM - 1:45 PM
+Topics: Electronic Devices & Circuits: PN Junction Diode (Characteristics, IV Curve, Ideal vs. Practical Diode Model, Breakdown), Zener Diode (Characteristics, Voltage Regulation)
+Resources: Sedra/Smith - Microelectronic Circuits (Chapter 1, 3), NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Electronic Devices & Circuits: Diode Rectifiers (Half-wave, Full-wave: Center-tapped, Bridge), Ripple Factor, PIV, Filter Circuits (Capacitor Filter)
+Resources: Sedra/Smith - Microelectronic Circuits (Chapter 3), All About Circuits - Rectifier Tutorial
+---
+[Date: 2025-06-30]
+Time: 11:00 AM - 1:45 PM
+Topics: Electronic Devices & Circuits: Bipolar Junction Transistor (BJT) - Operation (NPN, PNP), Configurations (CE, CB, CC), Transistor Characteristics
+Resources: Sedra/Smith - Microelectronic Circuits (Chapter 4), NPTEL: Analog Electronic Circuits [https://nptel.ac.in/courses/108102095/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Electronic Devices & Circuits: BJT DC Biasing (Fixed Bias, Collector-to-base Bias, Voltage Divider Bias, Emitter Bias), Load Line Analysis (DC & AC concept)
+Resources: Sedra/Smith - Microelectronic Circuits (Chapter 5), Electronics Tutorials - BJT Biasing
+---
+[Date: 2025-07-01]
+Time: 11:00 AM - 1:45 PM
+Topics: Linear Control System: Introduction (Open-loop vs. Closed-loop Systems, Feedback), Transfer Functions (Modeling of Mechanical Systems - Mass-Spring-Damper, Electrical Systems - RLC Circuits)
+Resources: Ogata - Modern Control Engineering (Chapter 1, 2), NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Linear Control System: Block Diagram Reduction Techniques, Signal Flow Graphs, Mason's Gain Formula
+Resources: Ogata - Modern Control Engineering (Chapter 2), Neso Academy - Control Systems
+---
+[Date: 2025-07-02]
+Time: 11:00 AM - 1:45 PM
+Topics: Linear Control System: Time Domain Analysis (First-order System Response to Step/Impulse Inputs), Second-order System Response (Underdamped, Critically Damped, Overdamped), Damping Ratio, Natural Frequency
+Resources: Ogata - Modern Control Engineering (Chapter 5), NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: Linear Control System: Performance Specifications (Rise Time, Peak Time, Settling Time, Maximum Overshoot), Steady-State Error for Unity Feedback Systems, Static Error Constants (Kp, Kv, Ka)
+Resources: Ogata - Modern Control Engineering (Chapter 5), Control System Tutorials
+---
+[Date: 2025-07-03]
+Time: 11:00 AM - 1:45 PM
+Topics: Linear Control System: Stability Analysis (Concept of Poles and Zeros, Routh-Hurwitz Stability Criterion - application and special cases)
+Resources: Ogata - Modern Control Engineering (Chapter 6), NPTEL: Control Systems [https://nptel.ac.in/courses/107106081/]
+---
+Time: 02:30 PM - 03:30 PM
+Topics: First Unit Review & Problem Solving: Consolidated practice on key concepts from Digital Electronics, Electronic Devices & Circuits, and Linear Control Systems covered this week.
+Resources: Self-made summary notes, practice problems from textbooks, online quiz platforms for respective topics
