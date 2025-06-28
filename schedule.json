@@ -1,72 +1,30 @@
 [
     {
-        "time": "06:00 - 07:00",
-        "activity": "Programming Basics",
-        "topics": "Python basics, data structures"
+        "time": "08:00 AM - 09:00 AM",
+        "activity": "Study",
+        "topics": "Tanmoy's Chess Strategy: Game Analysis"
     },
     {
-        "time": "07:00 - 08:00",
-        "activity": "Algorithms and Data Structures",
-        "topics": "Sorting algorithms"
+        "time": "09:30 AM - 10:30 AM",
+        "activity": "Study",
+        "topics": "Tanmoy's Chess Strategy: Opening Moves"
     },
     {
-        "time": "08:00 - 09:00",
-        "activity": "Break",
-        "topics": ""
+        "time": "11:00 AM - 12:00 PM",
+        "activity": "Break"
     },
     {
-        "time": "09:00 - 10:00",
-        "activity": "Discrete Mathematics",
-        "topics": "Boolean algebra"
+        "time": "01:00 PM - 02:00 PM",
+        "activity": "Study",
+        "topics": "Tanmoy's Tech Innovations"
     },
     {
-        "time": "10:00 - 11:00",
-        "activity": "Probability and Statistics",
-        "topics": "Variance"
+        "time": "02:30 PM - 03:30 PM",
+        "activity": "Study",
+        "topics": "Tanmoy's Tech Innovations: Detailed Analysis"
     },
     {
-        "time": "11:00 - 12:00",
-        "activity": "Formal Languages and Automata Theory",
-        "topics": "Formal language basics"
-    },
-    {
-        "time": "12:00 - 13:00",
-        "activity": "Lunch",
-        "topics": ""
-    },
-    {
-        "time": "13:00 - 14:00",
-        "activity": "Graph Theory",
-        "topics": "Graph traversal"
-    },
-    {
-        "time": "14:00 - 15:00",
-        "activity": "Graph Theory",
-        "topics": "Graph connectivity"
-    },
-    {
-        "time": "15:00 - 16:00",
-        "activity": "Graph Theory",
-        "topics": "Graph representation"
-    },
-    {
-        "time": "16:00 - 17:00",
-        "activity": "Break",
-        "topics": ""
-    },
-    {
-        "time": "17:00 - 18:00",
-        "activity": "Graph Theory",
-        "topics": "Graph flows"
-    },
-    {
-        "time": "18:00 - 19:00",
-        "activity": "Graph Theory",
-        "topics": "Theorems and applications"
-    },
-    {
-        "time": "19:00 - 20:00",
-        "activity": "Review and homework",
-        "topics": "Today's study topics"
+        "time": "04:00 PM - 05:00 PM",
+        "activity": "Break"
     }
 ]
