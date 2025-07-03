@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2025-07-04",
+        "topics": [
+            "Introduction to Trees: Terminology (nodes, root, parent, child, leaf, depth, height)",
+            "Types of Trees: General Trees, Binary Trees (full, complete, perfect, degenerate)"
+        ]
+    },
+    {
+        "date": "2025-07-05",
+        "topics": [
+            "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative)",
+            "Binary Tree Traversals (DFS): Preorder (Recursive & Iterative)",
+            "Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+        ]
+    },
+    {
+        "date": "2025-07-06",
+        "topics": [
+            "Binary Tree Traversals (BFS): Level Order Traversal",
+            "Introduction to Binary Search Trees (BST): Definition, Properties"
+        ]
+    },
+    {
+        "date": "2025-07-07",
+        "topics": [
+            "BST Operations: Search for a node",
+            "BST Operations: Insertion of a node"
+        ]
+    },
+    {
+        "date": "2025-07-08",
+        "topics": [
+            "BST Operations: Deletion of a node (various cases)"
+        ]
+    },
+    {
+        "date": "2025-07-09",
+        "topics": [
+            "Introduction to Heaps: Max Heap, Min Heap",
+            "Heap Operations: Heapify, Insert, Extract Max/Min"
+        ]
+    },
+    {
+        "date": "2025-07-10",
+        "topics": [
+            "Review of Tree Concepts & Properties",
+            "Practice Problems: Mix of traversals, BST operations, and general tree questions"
+        ]
+    }
+]
