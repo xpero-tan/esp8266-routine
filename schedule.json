@@ -1,75 +1,42 @@
 [
-    {
-        "time": "07:00 AM - 08:00 AM",
-        "activity": "Morning Routine",
-        "topics": []
-    },
-    {
-        "time": "08:00 AM - 09:30 AM",
-        "activity": "Study Session 1",
-        "topics": [
-            "Review course materials"
-        ]
-    },
-    {
-        "time": "09:30 AM - 10:00 AM",
-        "activity": "Break and Snack",
-        "topics": []
-    },
-    {
-        "time": "10:00 AM - 11:30 AM",
-        "activity": "Study Session 2",
-        "topics": [
-            "Practice exercises"
-        ]
-    },
-    {
-        "time": "11:30 AM - 12:00 PM",
-        "activity": "Short Break",
-        "topics": []
-    },
-    {
-        "time": "12:00 PM - 01:00 PM",
-        "activity": "Lunch Break",
-        "topics": []
-    },
-    {
-        "time": "01:00 PM - 03:00 PM",
-        "activity": "Focused Project Work",
-        "topics": [
-            "Current assignments"
-        ]
-    },
-    {
-        "time": "03:00 PM - 03:30 PM",
-        "activity": "Tea Break",
-        "topics": []
-    },
-    {
-        "time": "03:30 PM - 05:00 PM",
-        "activity": "Exercise and Fitness",
-        "topics": []
-    },
-    {
-        "time": "05:00 PM - 06:30 PM",
-        "activity": "Personal Development",
-        "topics": [
-            "Reading, hobbies"
-        ]
-    },
-    {
-        "time": "06:30 PM - 08:00 PM",
-        "activity": "Dinner and Relaxation",
-        "topics": []
-    },
-    {
-        "time": "08:00 PM - 09:30 PM",
-        "activity": "Free Time",
-        "topics": []
-    },
-    {
-        "time": "09:30 PM - 10:30 PM",
-        "activity": "Prepare for Sleep",
-        "topics": []
-    }
+  {
+    "time": "08:00 AM - 08:00 AM",
+    "activity": "Wake Up",
+    "topics": ""
+  },
+  {
+    "time": "08:00 AM - 11:00 AM",
+    "activity": "Morning Routine & Prep",
+    "topics": ""
+  },
+  {
+    "time": "11:00 AM - 01:45 PM",
+    "activity": "Study Rectifier Apps",
+    "topics": "General study topics"
+  },
+  {
+    "time": "01:45 PM - 02:30 PM",
+    "activity": "Lunch Break",
+    "topics": ""
+  },
+  {
+    "time": "02:30 PM - 03:30 PM",
+    "activity": "Optional Study/Review",
+    "topics": "Review"
+  },
+  {
+    "time": "03:30 PM - 05:30 PM",
+    "activity": "Nap",
+    "topics": ""
+  },
+  {
+    "time": "05:30 PM - 08:00 PM",
+    "activity": "Leisure Time",
+    "topics": ""
+  },
+  {
+    "time": "08:00 PM - 09:00 PM",
+    "activity": "Dinner & Routine",
+    "topics": ""
+  }
 ]
