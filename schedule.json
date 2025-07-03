@@ -1,42 +1,72 @@
 [
   {
-    "time": "08:00 AM - 08:00 AM",
-    "activity": "Wake Up",
+    "time": "07:00 AM - 08:00 AM",
+    "activity": "Morning Routine",
     "topics": ""
   },
   {
-    "time": "08:00 AM - 11:00 AM",
-    "activity": "Morning Routine & Prep",
+    "time": "08:00 AM - 09:30 AM",
+    "activity": "Intro to Trees Terminology",
+    "topics": "nodes, root, parent, child, leaf, depth, height"
+  },
+  {
+    "time": "09:30 AM - 10:00 AM",
+    "activity": "Short Break",
     "topics": ""
   },
   {
-    "time": "11:00 AM - 01:45 PM",
-    "activity": "Study Rectifier Apps",
-    "topics": "General study topics"
+    "time": "10:00 AM - 11:30 AM",
+    "activity": "Types of Trees Overview",
+    "topics": "General Trees, Binary Trees"
   },
   {
-    "time": "01:45 PM - 02:30 PM",
+    "time": "11:30 AM - 12:30 PM",
     "activity": "Lunch Break",
     "topics": ""
   },
   {
-    "time": "02:30 PM - 03:30 PM",
-    "activity": "Optional Study/Review",
-    "topics": "Review"
+    "time": "12:30 PM - 02:00 PM",
+    "activity": "Binary Tree Properties",
+    "topics": "full, complete, perfect, degenerate"
   },
   {
-    "time": "03:30 PM - 05:30 PM",
-    "activity": "Nap",
+    "time": "02:00 PM - 03:00 PM",
+    "activity": "Exercise and Refresh",
     "topics": ""
   },
   {
-    "time": "05:30 PM - 08:00 PM",
-    "activity": "Leisure Time",
+    "time": "03:00 PM - 04:00 PM",
+    "activity": "Review Today's Concepts",
+    "topics": "Introduction to Trees, Types of Trees"
+  },
+  {
+    "time": "04:00 PM - 06:00 PM",
+    "activity": "Personal Time",
+    "topics": ""
+  },
+  {
+    "time": "06:00 PM - 07:00 PM",
+    "activity": "Dinner",
+    "topics": ""
+  },
+  {
+    "time": "07:00 PM - 08:00 PM",
+    "activity": "Relaxation and Hobbies",
     "topics": ""
   },
   {
     "time": "08:00 PM - 09:00 PM",
-    "activity": "Dinner & Routine",
+    "activity": "Prepare for Tomorrow",
+    "topics": ""
+  },
+  {
+    "time": "09:00 PM - 10:00 PM",
+    "activity": "Wind Down",
+    "topics": ""
+  },
+  {
+    "time": "10:00 PM - 07:00 AM",
+    "activity": "Sleep",
     "topics": ""
   }
 ]
