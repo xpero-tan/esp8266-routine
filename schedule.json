@@ -1,57 +1,202 @@
 [
   {
-    "time": "06:00 AM - 09:00 AM",
-    "activity": "Sleep",
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Study IDO & BGR",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Study SR",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "02:00 PM - 02:30 PM",
+    "activity": "Tiffin break",
     "topics": []
   },
   {
-    "time": "09:00 AM - 10:30 AM",
-    "activity": "Breakfast & Morning Routine",
+    "time": "02:30 PM - 04:00 PM",
+    "activity": "Study IDO & SR",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Study MOS Physics",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Study CM",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study VLSI Arch. System Design",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Free Time",
     "topics": []
   },
   {
-    "time": "10:30 AM - 12:00 PM",
-    "activity": "Study: Tree Terminology",
-    "topics": "Introduction to Trees: Terminology (nodes, root, parent, child, leaf, depth, height), Types of Trees: General Trees, Binary Trees (full, complete, perfect, degenerate)"
-  },
-  {
-    "time": "12:00 PM - 01:30 PM",
-    "activity": "Study: Types of Trees",
-    "topics": "Introduction to Trees: Terminology (nodes, root, parent, child, leaf, depth, height), Types of Trees: General Trees, Binary Trees (full, complete, perfect, degenerate)"
-  },
-  {
-    "time": "01:30 PM - 01:45 PM",
-    "activity": "Bathing",
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Free Time",
     "topics": []
   },
   {
-    "time": "01:45 PM - 02:45 PM",
-    "activity": "Lunch",
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study VLSI Arch. System Design",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Free Time",
     "topics": []
   },
   {
-    "time": "02:45 PM - 03:30 PM",
-    "activity": "Study: Review Concepts",
-    "topics": "Introduction to Trees: Terminology (nodes, root, parent, child, leaf, depth, height), Types of Trees: General Trees, Binary Trees (full, complete, perfect, degenerate)"
-  },
-  {
-    "time": "03:30 PM - 04:45 PM",
-    "activity": "Nap",
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Free Time",
     "topics": []
   },
   {
-    "time": "04:45 PM - 05:00 PM",
-    "activity": "Study: Quick Review",
-    "topics": "Introduction to Trees: Terminology (nodes, root, parent, child, leaf, depth, height), Types of Trees: General Trees, Binary Trees (full, complete, perfect, degenerate)"
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study VLSI Arch. System Design",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
   },
   {
-    "time": "05:00 PM - 08:00 PM",
-    "activity": "Personal Meeting",
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Study Nano Materials",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Study SR",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study Nano Materials & SR",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Free Time",
     "topics": []
   },
   {
-    "time": "08:00 PM - 11:30 PM",
-    "activity": "Study Time",
-    "topics": "Introduction to Trees: Terminology (nodes, root, parent, child, leaf, depth, height), Types of Trees: General Trees, Binary Trees (full, complete, perfect, degenerate)"
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Free Time",
+    "topics": []
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study MOS Physics",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "10:30 AM - 01:30 PM",
+    "activity": "Group Study",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:30 PM - 02:00 PM",
+    "activity": "Tiffin",
+    "topics": []
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study MOS Physics",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Study Digital VLSI",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Tiffin",
+    "topics": []
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study MOS Physics",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "10:30 AM - 01:30 PM",
+    "activity": "Group Study",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:30 PM - 02:00 PM",
+    "activity": "Tiffin",
+    "topics": []
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study VLSI Arch. System Design",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Study Digital VLSI",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Study Digital VLSI",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study Digital VLSI",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "10:30 AM - 01:30 PM",
+    "activity": "Group Study",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:30 PM - 02:00 PM",
+    "activity": "Tiffin",
+    "topics": []
+  },
+  {
+    "time": "02:00 PM - 05:00 PM",
+    "activity": "Group Study",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "11:00 AM - 01:00 PM",
+    "activity": "Free Time",
+    "topics": []
+  },
+  {
+    "time": "01:00 PM - 02:00 PM",
+    "activity": "Free Time",
+    "topics": []
+  },
+  {
+    "time": "02:00 PM - 04:00 PM",
+    "activity": "Study Digital VLSI",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "10:30 AM - 01:30 PM",
+    "activity": "Group Study",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
+  },
+  {
+    "time": "01:30 PM - 02:00 PM",
+    "activity": "Tiffin",
+    "topics": []
+  },
+  {
+    "time": "02:00 PM - 05:00 PM",
+    "activity": "Group Study",
+    "topics": "Binary Tree Traversals (DFS): Inorder (Recursive & Iterative), Binary Tree Traversals (DFS): Preorder (Recursive & Iterative), Binary Tree Traversals (DFS): Postorder (Recursive & Iterative)"
   }
 ]
